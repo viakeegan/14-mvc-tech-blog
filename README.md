@@ -51,6 +51,10 @@ WHEN I am idle on the site for more than a set time</br>
 THEN I am able to view comments but I am prompted to log in again before I can add, update, or delete comments</br>
 
 ## Screenshots
+![](./assets/images/Capture.PNG) </br>
+![](./assets/images/Capture2.PNG) </br>
+![](./assets/images/Capture3.PNG) </br>
+![](./assets/images/Capture4.PNG) </br>
 
 ## Contact
 - [GitHub](https://github.com/viakeegan 'GitHub')
