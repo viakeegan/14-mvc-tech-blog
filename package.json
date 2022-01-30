@@ -4,31 +4,31 @@
     "description": "CMS style tech blog",
     "main": "server.js",
     "scripts": {
-      "test": "jest",
-      "start": "node server.js"
+        "test": "jest",
+        "start": "node server.js"
     },
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/viakeegan/14-mvc-tech-blog"
+        "type": "git",
+        "url": "git+https://github.com/viakeegan/14-mvc-tech-blog"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/viakeegan/14-mvc-tech-blog/issues"
+        "url": "https://github.com/viakeegan/14-mvc-tech-blog/issues"
     },
     "homepage": "https://github.com/viakeegan/14-mvc-tech-blog#readme",
     "devDependencies": {
-      "jest": "^26.0.1"
+        "jest": "^26.0.1"
     },
     "dependencies": {
-      "bcrypt": "^5.0.0",
-      "connect-session-sequelize": "^6.1.1",
-      "dotenv": "^8.2.0",
-      "express": "^4.17.1",
-      "express-handlebars": "^4.0.4",
-      "express-session": "^1.17.1",
-      "mysql2": "^2.1.0",
-      "sequelize": "^5.21.12"
+        "bcrypt": "^5.0.0",
+        "connect-session-sequelize": "^6.1.1",
+        "dotenv": "^8.2.0",
+        "express": "^4.17.2",
+        "express-handlebars": "^4.0.4",
+        "express-session": "^1.17.1",
+        "mysql2": "^2.1.0",
+        "sequelize": "^5.21.12"
     },
     "keywords": []
-  }
+}
