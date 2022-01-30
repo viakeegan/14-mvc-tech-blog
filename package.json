@@ -29,7 +29,6 @@
         "express-session": "^1.17.1",
         "heroku": "^7.30.1",
         "mysql2": "^2.3.3",
-        "node": "^17.4.0",
         "sequelize": "^5.22.5"
     },
     "keywords": []
